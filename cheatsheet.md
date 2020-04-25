@@ -1,5 +1,5 @@
 #  Common Commands Cheatsheet
-##Git Commands
+## Git Commands
 1. mkdir <my_directory>
 
     // Create a new directory // Yeni bir klasör oluştur
@@ -24,7 +24,7 @@
     
     // Klasörün git deposuna dönüşmesi için oluşması gereken gizli ".git" klasörünün oluşup oluşmadığını kontrol et
     
-    ![Git Klasörü İçerik](https://github.com/mukaddesau/Linux-Commands/Pictures/git_content.png)
+    ![Git Klasörü İçerik]("https://github.com/mukaddesau/Linux-Commands/Pictures/git_content.png")
     
 5. Open your repositories from browser <https://github.com/user_name?tab=repositories> 
 
