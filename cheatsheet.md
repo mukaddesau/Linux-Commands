@@ -35,4 +35,19 @@
 
 // Github uzak depo ile lokaldeki klasörünü ilişkilendir. 
 
-* m
+// Bla bla bla
+
+## Useful Commands
+
+* mkdir <folder_name>
+
+// Create a folder
+
+// Klasör oluştur
+
+* cd <directory/directory/another_directory/>
+
+// Go to a path
+
+// Yolu verilen bir klasörün içine git
+
