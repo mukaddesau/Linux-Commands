@@ -6,12 +6,6 @@
 
 3. git init //  Create a ".git" directory (not a file) which turns your directory into a git repository. 
 
-*muko 
-
--muko
---mul
-
-
--m
+4. git remote origin <https://github.com/user_name/user_repo.git> // Introduce 
 
 * m
