@@ -51,3 +51,8 @@
 
 // Yolu verilen bir klasörün içine git
 
+:angry:
+
+ 
+
+
