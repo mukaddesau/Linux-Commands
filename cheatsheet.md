@@ -28,8 +28,16 @@
     
 5. Open your repositories from browser <https://github.com/user_name?tab=repositories> 
 
+    // Tarayıcıdan "Repositories" kısmına gel.
+
 6. Create "New" repository. 
-7. git remote add origin <https://github.com/user_name/user_repo.git> 
+
+    // "New" ile yeni bir uzak kod deposu oluştur. 
+
+![Lokaldeki kodları yükleyip versiyonlarıyla tutacağımız yeri: uzak kod deposunu oluşturma.](Pictures/yeni_uzak_depo)
+    
+    
+7. git remote add origin <https://github.com/user_name/repo_name.git> 
 
 // Github remote repository is identified with your directory. 
 
@@ -51,8 +59,19 @@
 
 // Yolu verilen bir klasörün içine git
 
+
+* 
+
+
+
+
+
+
+
+
 :angry:
 
+![](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
  
 
 
