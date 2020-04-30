@@ -34,7 +34,7 @@
 
     // "New" ile yeni bir uzak kod deposu oluştur. 
 
-![Lokaldeki kodları yükleyip versiyonlarıyla tutacağımız yeri: uzak kod deposunu oluşturma.](Pictures/yeni_uzak_repo)
+![Lokaldeki kodları yükleyip versiyonlarıyla tutacağımız yeri: uzak kod deposunu oluşturma.](Pictures/yeni_uzak_repo.png)
     
     
 7. git remote add origin <https://github.com/user_name/repo_name.git> 
